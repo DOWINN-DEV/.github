@@ -6,9 +6,9 @@ labels: enhancement, back-end
 assignees: ''
 ---
 
-## Problem Description
+## Feature/Problem Description
 
-## Preferred Solution
+## Preferred Behavior/Solution
 
 ## Input Payload
 ```json
@@ -25,7 +25,6 @@ assignees: ''
 ```
 
 ## Output Payload
-
 ```json
 {
   "field1": "string",
