@@ -6,8 +6,8 @@ labels: enhancement, front-end
 assignees: ''
 ---
 
-## Problem Description
+## Feature/Problem Description
 
-## Preferred Solution
+## Preferred Behavior/Solution
 
 ## Additional Context
